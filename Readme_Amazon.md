@@ -21,3 +21,6 @@ This project is a Python web scraper that collects laptop information from Amazo
    pip install -r requirements.txt
 
 python amazon_scraper.py
+
+Scraped By
+Salman Rohan
